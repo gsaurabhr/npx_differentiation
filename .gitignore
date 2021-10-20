@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+._*
+*.ipynb_checkpoints*
+*.db
+*.pkl
